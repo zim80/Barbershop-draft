@@ -372,6 +372,12 @@ body {
   background-repeat: no-repeat;
 }
 
+.container {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
 .main-header {
     margin-bottom: 75px;
   
