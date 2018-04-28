@@ -398,6 +398,7 @@ body {
 }
   
 .site-navigation {
+    width: 620px;
     margin: 0;
     padding: 0;
     
@@ -407,7 +408,8 @@ body {
     min-height: 70px;
 }
   
-.user-navigation {
+  .user-navigation {
+    width: 140px;
     margin: 0;
     padding: 0;
     
