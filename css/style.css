@@ -472,11 +472,15 @@ body {
    
    
 .news {
+    width: 380px;
+  
     /* Временно для сетки */
     min-height: 315px;
 }
-   
+  
 .gallery {
+    width: 300px;
+  
     /* Временно для сетки */
     min-height: 315px;
 }
