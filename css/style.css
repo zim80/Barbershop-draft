@@ -415,6 +415,7 @@ body {
 
 .main-navigation-wrapper .container {
     display: flex;
+    justify-content: space-between;
 }
 
 .site-navigation {
