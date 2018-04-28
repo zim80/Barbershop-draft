@@ -512,6 +512,7 @@ body {
  }
 
  .footer-contacts {
+    width: 320px;
     margin: 0;
   
     /* Временно для сетки */
@@ -519,11 +520,14 @@ body {
 }
   
 .footer-social {
+    width: 145px;
+  
     /* Временно для сетки */
     min-height: 100px;
 }
   
 .footer-copyright {
+    width: 150px;
     margin: 0;
   
     /* Временно для сетки */
