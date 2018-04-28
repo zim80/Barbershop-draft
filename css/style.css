@@ -131,3 +131,15 @@ text-decoration: none;
 .footer-contacts a:focus {
     text-decoration: none;
 }
+
+.footer-social {
+    text-align: center;
+}
+  
+.footer-social ul {
+    list-style: none;
+}
+  
+.social-button {
+    color: #ffffff;
+}
