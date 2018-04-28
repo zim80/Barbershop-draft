@@ -215,6 +215,14 @@ text-decoration: none;
     list-style: none;
 }
 
+.product-photo-preview li {
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+}
+  
+.product-photo-full {
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+}
+
 .button {
     font: inherit;
   
