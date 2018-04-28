@@ -228,6 +228,13 @@ text-decoration: none;
     color: #aeaeae;
 }
 
+.product-price b {
+    line-height: 20px;
+    text-align: center;
+  
+    background-color: #e5e5e5;
+}
+
 .button {
     font: inherit;
   
