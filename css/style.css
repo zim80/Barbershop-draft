@@ -412,7 +412,11 @@ body {
     /* Временно для сетки */
     min-height: 70px;
 }
-  
+
+.main-navigation-wrapper .container {
+    display: flex;
+}
+
 .site-navigation {
     width: 620px;
     margin: 0;
