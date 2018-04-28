@@ -380,6 +380,7 @@ body {
 }
 
 .main-navigation {
+    display: flex;
     /* Временно для сетки */
     min-height: 285px;
     background-color: transparent;
