@@ -509,3 +509,22 @@ body {
     background: none;
     min-height: 180px;
  }
+
+ .footer-contacts {
+    margin: 0;
+  
+    /* Временно для сетки */
+    min-height: 100px;
+}
+  
+.footer-social {
+    /* Временно для сетки */
+    min-height: 100px;
+}
+  
+.footer-copyright {
+    margin: 0;
+  
+    /* Временно для сетки */
+    min-height: 100px;
+}
