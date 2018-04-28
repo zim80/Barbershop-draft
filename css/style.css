@@ -43,3 +43,7 @@ text-decoration: none;
 .user-navigation a:focus {
   background-color: #242424;
 }
+
+.features-list {
+    list-style: none;
+  }
