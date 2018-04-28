@@ -388,6 +388,7 @@ body {
 }
 
 .main-header-logo {
+    order: 2;
     width: 368px;
     height: 153px;
     
