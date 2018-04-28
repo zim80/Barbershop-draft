@@ -197,6 +197,20 @@ text-decoration: none;
   background-color: #663d15;
 }
 
+.pagination-item-current a {
+    color: #000000;
+  
+    background-color: #ffffff;
+}
+  
+.pagination-item-current a:hover,
+.pagination-item-current a:focus,
+.pagination-item-current a:active {
+    color: #000000;
+  
+    background-color: #ffffff;
+}
+
 .button {
     font: inherit;
   
