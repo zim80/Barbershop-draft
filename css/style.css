@@ -458,3 +458,20 @@ body {
     /* Временно для сетки */
     min-height: 170px;
 }
+
+.index-columns {
+    /* Временно для сетки */
+    background-image: none;
+    background-color: transparent;
+}
+   
+   
+.news {
+    /* Временно для сетки */
+    min-height: 315px;
+}
+   
+.gallery {
+    /* Временно для сетки */
+    min-height: 315px;
+}
