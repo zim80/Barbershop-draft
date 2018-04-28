@@ -391,7 +391,7 @@ body {
     height: 153px;
     
     /* Временно для сетки */
-    display: block;
+    /* display: block;*/
 }
   
 .site-navigation {
