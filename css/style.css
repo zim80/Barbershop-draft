@@ -84,6 +84,13 @@ text-decoration: none;
     border: 7px solid #ffffff;
 }
 
+.appointment-item input {
+    font: inherit;
+  
+    background-color: transparent;
+    border: 2px solid #000000;
+}
+
 .button {
     font: inherit;
   
