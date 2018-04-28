@@ -486,3 +486,17 @@ body {
     /* Временно для сетки */
     min-height: 315px;
 }
+
+.contacts {
+    width: 380px;
+  
+    /* Временно для сетки */
+    min-height: 295px;
+}
+  
+.appointment {
+    width: 300px;
+  
+    /* Временно для сетки */
+    min-height: 340px;
+}
