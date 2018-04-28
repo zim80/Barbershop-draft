@@ -131,6 +131,17 @@ text-decoration: none;
     line-height: 18px;
 }
 
+.filter-input:hover + label,
+.filter-input:focus + label {
+  color: #663d15;
+}
+
+.filter-input:disabled + label {
+  color: #000000;
+
+  opacity: 0.5;
+}
+
 .button {
     font: inherit;
   
