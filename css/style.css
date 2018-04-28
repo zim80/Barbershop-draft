@@ -440,6 +440,10 @@ body {
     min-height: 70px;
 }
 
+.features {
+    margin-bottom: 80px;
+}
+
 .features-list {
     display: flex;
     justify-content: space-between; 
