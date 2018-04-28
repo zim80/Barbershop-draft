@@ -211,6 +211,10 @@ text-decoration: none;
     background-color: #ffffff;
 }
 
+.product-photo-preview {
+    list-style: none;
+}
+
 .button {
     font: inherit;
   
