@@ -164,6 +164,10 @@ text-decoration: none;
     line-height: 18px;
 }
 
+.catalog-category {
+    text-transform: none;
+}
+
 .button {
     font: inherit;
   
