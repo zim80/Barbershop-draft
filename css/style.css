@@ -384,3 +384,32 @@ body {
     min-height: 285px;
     background-color: transparent;
 }
+
+.main-header-logo {
+    width: 368px;
+    height: 153px;
+    
+    /* Временно для сетки */
+    display: block;
+}
+  
+.site-navigation {
+    margin: 0;
+    padding: 0;
+    
+    list-style: none;
+    
+    /* Временно для сетки */
+    min-height: 70px;
+}
+  
+.user-navigation {
+    margin: 0;
+    padding: 0;
+    
+    list-style: none;
+    
+    /* Временно для сетки */
+    min-height: 70px;
+}
+  
