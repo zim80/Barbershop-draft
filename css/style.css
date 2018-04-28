@@ -439,4 +439,9 @@ body {
     /* Временно для сетки */
     min-height: 70px;
 }
+
+.features-list {
   
+    /* Временно для сетки */
+    min-height: 170px;
+}
