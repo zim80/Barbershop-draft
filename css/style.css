@@ -518,6 +518,7 @@ body {
  .footer-contacts {
     width: 320px;
     margin: 0;
+    margin-right: 80px;
   
     /* Временно для сетки */
     min-height: 100px;
