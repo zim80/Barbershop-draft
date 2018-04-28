@@ -185,6 +185,12 @@ text-decoration: none;
     list-style: none;
 }
 
+.pagination-item a {
+    color: #ffffff;
+  
+    background-color: #000000;
+}
+
 .button {
     font: inherit;
   
