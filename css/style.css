@@ -95,6 +95,11 @@ text-decoration: none;
     border-color: #663d15;
 }
 
+.page-title {
+    font-size: 30px;
+    line-height: 42px;
+}
+
 .button {
     font: inherit;
   
