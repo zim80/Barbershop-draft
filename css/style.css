@@ -511,6 +511,10 @@ body {
     min-height: 180px;
  }
 
+ .main-footer .container {
+    display: flex;
+}
+
  .footer-contacts {
     width: 320px;
     margin: 0;
