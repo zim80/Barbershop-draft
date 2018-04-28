@@ -126,6 +126,11 @@ text-decoration: none;
     line-height: 30px;
 }
 
+.filter ul {
+    list-style: none;
+    line-height: 18px;
+}
+
 .button {
     font: inherit;
   
