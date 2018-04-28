@@ -371,3 +371,10 @@ body {
   background-size: 1372px auto;
   background-repeat: no-repeat;
 }
+
+.main-header {
+    margin-bottom: 75px;
+  
+    /* Временно для сетки */
+    min-height: 285px;
+}
