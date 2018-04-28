@@ -382,6 +382,7 @@ body {
 .main-navigation {
     display: flex;
     flex-direction: column;
+    align-items: center;
     /* Временно для сетки */
     min-height: 285px;
     background-color: transparent;
