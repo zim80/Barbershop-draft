@@ -355,3 +355,19 @@ text-decoration: none;
     background-position: 0 0;
     background-repeat: repeat;
 }
+
+/* ----- Сеточные стили ----- */
+
+
+html,
+body {
+  min-width: 1122px;
+  min-height: 1750px;
+}
+
+body {
+  /* Временно для сетки */
+  background-image: url('../img/barbershop-index-grid.jpg');
+  background-size: 1372px auto;
+  background-repeat: no-repeat;
+}
