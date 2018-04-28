@@ -176,6 +176,11 @@ text-decoration: none;
     background-color: #e5e5e5;
 }
 
+.catalog-item-price .button {
+    line-height: 20px;
+    color: #ffffff;
+}
+
 .button {
     font: inherit;
   
