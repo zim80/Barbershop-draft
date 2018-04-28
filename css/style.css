@@ -534,6 +534,7 @@ body {
 .footer-copyright {
     width: 150px;
     margin: 0;
+    margin-left: auto;
   
     /* Временно для сетки */
     min-height: 100px;
