@@ -191,6 +191,12 @@ text-decoration: none;
     background-color: #000000;
 }
 
+.pagination-item a:hover,
+.pagination-item a:focus,
+.pagination-item a:active {
+  background-color: #663d15;
+}
+
 .button {
     font: inherit;
   
