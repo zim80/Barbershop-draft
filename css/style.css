@@ -378,3 +378,9 @@ body {
     /* Временно для сетки */
     min-height: 285px;
 }
+
+.main-navigation {
+    /* Временно для сетки */
+    min-height: 285px;
+    background-color: transparent;
+}
