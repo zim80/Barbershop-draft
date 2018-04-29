@@ -573,6 +573,13 @@ body {
   min-height: 687px;
 }
 
+.catalog-list {
+  padding: 0;
+  margin: 0;
+
+  list-style: none;
+}
+
 .catalog-item {
   width: 220px;
   margin-bottom: 20px;
