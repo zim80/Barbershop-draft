@@ -591,6 +591,10 @@ body {
   min-height: 285px;
 }
 
+.catalog-item:nth-child(3n) {
+  margin-right: 0;
+}
+
 .main-footer {
   padding: 60px 0;
   margin-top: 65px;
