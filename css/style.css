@@ -388,6 +388,13 @@ body {
   min-height: 285px;
 }
 
+.inner-page .main-header {
+  margin-bottom: 50px;
+
+  /* Временно для сетки */
+  min-height: 70px;
+}
+
 .main-navigation {
   display: flex;
   flex-direction: column;
