@@ -390,6 +390,8 @@ body {
 
 .inner-page .main-header {
   margin-bottom: 50px;
+  
+  background-color: #000000;
 
   /* Временно для сетки */
   min-height: 70px;
