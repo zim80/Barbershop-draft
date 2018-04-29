@@ -554,6 +554,13 @@ body {
   min-height: 24px;
 }
 
+.filters {
+  width: 180px;
+
+  /* Временно для сетки */
+  min-height: 687px;
+}
+
 .main-footer {
   padding: 60px 0;
   margin-top: 65px;
