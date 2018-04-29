@@ -585,6 +585,7 @@ body {
 .catalog-item {
   width: 220px;
   margin-bottom: 20px;
+  margin-right: 20px;
 
   /* Временно для сетки */
   min-height: 285px;
