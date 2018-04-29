@@ -361,6 +361,19 @@ a {
 
 
 /* ----- Сеточные стили ----- */
+html,
+body {
+  min-width: 1122px;
+  min-height: 1150px;
+}
+
+.inner-page {
+  /* Временно для сетки */
+  background-image: url('img/barbershop-shop.jpg');
+  background-size: 1200px auto;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
 
 .container {
   width: 940px;
