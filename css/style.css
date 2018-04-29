@@ -470,6 +470,10 @@ body {
   min-height: 70px;
 }
 
+.inner-page .user-navigation {
+  margin-left: auto;
+}
+
 .features {
   margin-bottom: 80px;
 }
