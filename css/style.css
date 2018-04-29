@@ -406,6 +406,12 @@ body {
   min-height: 285px;
 }
 
+.inner-page .main-navigation {
+
+  /* Временно для сетки */
+  min-height: 70px;
+}
+
 .main-header-logo {
   order: 2;
 
