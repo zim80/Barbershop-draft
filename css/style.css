@@ -536,6 +536,15 @@ body {
   min-height: 320px;
 }
 
+.page-title {
+  margin: 0;
+  margin-bottom: 15px;
+  padding: 0;
+
+  /* Временно для сетки */
+  min-height: 42px;
+}
+
 .main-footer {
   padding: 60px 0;
   margin-top: 65px;
